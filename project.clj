@@ -7,7 +7,7 @@
             :url "http://www.opensource.org/licenses/mit-license.php"}
   :signing {:gpg-key "ilia@flamefork.ru"}
 
-  :dependencies [[org.clojure/clojure "1.4.0"]]
+  :dependencies [[org.clojure/clojure "1.8.0"]]
   :global-vars {*warn-on-reflection* true}
   :java-source-paths ["src"]
   :aot :all
